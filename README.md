@@ -1,5 +1,10 @@
 # JD
 
+> **Development home:** https://github.com/ImL1s/JD  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/JD) · [GitLab](https://gitlab.com/aa22396584/JD)
+
+
 No description provided.
 
 ## Overview
